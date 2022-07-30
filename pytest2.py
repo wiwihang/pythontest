@@ -2,4 +2,3 @@
 
 #learning
 print ('welcome to python')
-print ('commit')
